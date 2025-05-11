@@ -103,6 +103,7 @@ ol {
 
 .content__list {
   display: flex;
+  min-height: 298px;
   flex-direction: column;
   gap: 30px;
 }
